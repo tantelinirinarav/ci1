@@ -1,0 +1,242 @@
+CRITICAL - 2022-04-27 12:09:35 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\wamp64\www\notes\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\wamp64\www\notes\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\wamp64\www\notes\spark(45): require('...')
+#4 {main}
+CRITICAL - 2022-04-27 12:09:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\wamp64\www\notes\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\wamp64\www\notes\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\wamp64\www\notes\spark(45): require('...')
+#4 {main}
+CRITICAL - 2022-04-27 12:14:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\wamp64\www\notes\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\wamp64\www\notes\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\wamp64\www\notes\spark(45): require('...')
+#4 {main}
+CRITICAL - 2022-04-27 12:45:18 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\wamp64\www\notes\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\wamp64\www\notes\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\wamp64\www\notes\spark(45): require('...')
+#4 {main}
+CRITICAL - 2022-04-27 08:33:04 --> syntax error, unexpected end of file
+#0 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): view('site/accueil', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-27 08:33:11 --> syntax error, unexpected end of file
+#0 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): view('site/accueil', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-27 09:03:42 --> include(header.php): failed to open stream: No such file or directory
+#0 C:\wamp64\www\notes\app\Views\site\accueil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(header....', 'C:\\wamp64\\www\\n...', 12, Array)
+#1 C:\wamp64\www\notes\app\Views\site\accueil.php(12): include()
+#2 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#3 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#5 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): view('site/accueil', Array)
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-27 09:03:50 --> include(header.php): failed to open stream: No such file or directory
+#0 C:\wamp64\www\notes\app\Views\site\accueil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(header....', 'C:\\wamp64\\www\\n...', 12, Array)
+#1 C:\wamp64\www\notes\app\Views\site\accueil.php(12): include()
+#2 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#3 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#5 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): view('site/accueil', Array)
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-27 09:06:40 --> Invalid file: ::header.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('::header.php')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('::header', Array, true)
+#2 C:\wamp64\www\notes\app\Views\site\accueil.php(12): view('::header')
+#3 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#4 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#6 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): view('site/accueil', Array)
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#9 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-04-27 09:07:00 --> Invalid file: ../header.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../header.php')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('../header', Array, true)
+#2 C:\wamp64\www\notes\app\Views\site\accueil.php(12): view('../header')
+#3 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#4 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#6 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): view('site/accueil', Array)
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#9 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-04-27 09:19:23 --> La table 'gestionnotes.produit' n'existe pas
+CRITICAL - 2022-04-27 09:19:23 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(8): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-27 09:21:00 --> La table 'gestionnotes.ecole' n'existe pas
+CRITICAL - 2022-04-27 09:21:00 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(8): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-27 09:21:01 --> La table 'gestionnotes.ecole' n'existe pas
+CRITICAL - 2022-04-27 09:21:01 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(8): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-27 09:21:57 --> La table 'gestionnotes.ecoles' n'existe pas
+CRITICAL - 2022-04-27 09:21:57 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(8): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-27 09:21:58 --> La table 'gestionnotes.ecoles' n'existe pas
+CRITICAL - 2022-04-27 09:21:58 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(8): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-27 09:21:58 --> La table 'gestionnotes.ecoles' n'existe pas
+CRITICAL - 2022-04-27 09:21:58 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(8): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-27 09:27:17 --> La table 'gestionnotes.ecoles' n'existe pas
+CRITICAL - 2022-04-27 09:27:17 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(8): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-27 12:20:35 --> Invalid file: incude/header.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('incude/header.p...')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('incude/header', Array, true)
+#2 C:\wamp64\www\notes\app\Views\site\accueil.php(3): view('incude/header')
+#3 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#4 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#6 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): view('site/accueil', Array)
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#9 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-04-27 12:20:46 --> Invalid file: header.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('header.php')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('header', Array, true)
+#2 C:\wamp64\www\notes\app\Views\site\accueil.php(3): view('header')
+#3 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#4 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#6 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): view('site/accueil', Array)
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#9 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-04-27 12:56:51 --> Call to undefined method CodeIgniter\View\View::extends()
+#0 C:\wamp64\www\notes\system\View\View.php(210): include()
+#1 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#3 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): view('site/accueil', Array)
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-27 12:56:53 --> Call to undefined method CodeIgniter\View\View::extends()
+#0 C:\wamp64\www\notes\system\View\View.php(210): include()
+#1 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#3 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): view('site/accueil', Array)
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-27 12:58:00 --> Call to undefined method CodeIgniter\View\View::extends()
+#0 C:\wamp64\www\notes\system\View\View.php(210): include()
+#1 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#3 C:\wamp64\www\notes\app\Controllers\Acceil.php(15): view('site/accueil', Array)
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-27 12:58:01 --> Call to undefined method CodeIgniter\View\View::extends()
+#0 C:\wamp64\www\notes\system\View\View.php(210): include()
+#1 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#3 C:\wamp64\www\notes\app\Controllers\Acceil.php(15): view('site/accueil', Array)
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-27 12:58:01 --> Call to undefined method CodeIgniter\View\View::extends()
+#0 C:\wamp64\www\notes\system\View\View.php(210): include()
+#1 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#3 C:\wamp64\www\notes\app\Controllers\Acceil.php(15): view('site/accueil', Array)
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-27 14:15:08 --> View themes, no current section.
+#0 C:\wamp64\www\notes\app\Views\site\accueil.php(33): CodeIgniter\View\View->endSection()
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(15): view('site/accueil', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

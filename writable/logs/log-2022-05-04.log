@@ -1,0 +1,460 @@
+CRITICAL - 2022-05-04 08:25:32 --> Too few arguments to function App\controllers\Acceil::editEtudiantAes(), 0 passed in C:\wamp64\www\notes\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->editEtudiantAes()
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-04 09:32:34 --> There is no data to update.
+#0 C:\wamp64\www\notes\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\wamp64\www\notes\system\Model.php(651): CodeIgniter\BaseModel->update(NULL, Array)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(70): CodeIgniter\Model->update(NULL, Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->editMat('5')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 09:32:38 --> There is no data to update.
+#0 C:\wamp64\www\notes\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\wamp64\www\notes\system\Model.php(651): CodeIgniter\BaseModel->update(NULL, Array)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(70): CodeIgniter\Model->update(NULL, Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->editMat('5')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 10:23:05 --> Invalid file: site/listeL1AesMatMat.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('site/listeL1Aes...')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 10:54:06 --> Invalid file: site/listeL1AesMatMat.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('site/listeL1Aes...')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 10:57:30 --> Invalid file: site/listeL1AesMatMat.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('site/listeL1Aes...')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 10:59:25 --> Invalid file: site/listeL1AesMatMat.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('site/listeL1Aes...')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 11:00:13 --> Invalid file: site/listeL1AesMatMat.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('site/listeL1Aes...')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 11:01:32 --> Invalid file: site/listeL1AesMatMat.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('site/listeL1Aes...')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 11:02:57 --> Invalid file: site/listeL1AesMatMat.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('site/listeL1Aes...')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 11:03:22 --> Invalid file: site/listeL1AesMatMat.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('site/listeL1Aes...')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 11:04:42 --> Invalid file: site/listeL1AesMatMat.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('site/listeL1Aes...')
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 11:25:30 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 11:25:31 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 11:25:35 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 11:25:37 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 11:25:42 --> syntax error, unexpected '?>', expecting ')'
+#0 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/listeL1Aes...', Array, true)
+#2 C:\wamp64\www\notes\app\Controllers\ControllerMatiere.php(88): view('site/listeL1Aes...', Array)
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerMatiere->licence1()
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerMatiere))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-04 13:43:04 --> Class 'App\Models\Acceil' not found
+#0 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-04 13:43:29 --> Class 'App\controllers\modelTest' not found
+#0 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-04 13:46:12 --> Erreur de syntaxe près de ')' à la ligne 3
+CRITICAL - 2022-05-04 13:46:12 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(261): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->rechercher()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-04 13:53:23 --> Class 'App\controllers\ModelExamen' not found
+#0 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-04 13:55:12 --> Class 'App\controllers\ModelExamen' not found
+#0 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-04 14:13:44 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(195): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 195, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(47): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:13:49 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(195): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 195, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(47): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:14:33 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(195): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 195, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(47): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:15:00 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(195): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 195, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(47): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:16:20 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(195): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 195, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(47): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:16:23 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\rpm.php(149): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 149, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/rpm', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(67): view('site/rpm')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->rpm()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:16:29 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(195): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 195, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(47): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:17:23 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(195): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 195, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(47): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:17:36 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(195): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 195, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(46): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:17:37 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(195): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 195, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(46): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:18:07 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 37, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(46): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:18:07 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 37, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(46): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:18:08 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 37, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(46): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:21:02 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(173): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 173, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(47): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 14:21:20 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNote.php(173): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 173, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNote', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(47): view('site/aesNote', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->aesNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-04 14:31:29 --> Erreur de syntaxe près de ')' à la ligne 3
+CRITICAL - 2022-05-04 14:31:29 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(101): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->rechercherNote()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-04 14:31:32 --> Erreur de syntaxe près de ')' à la ligne 3
+CRITICAL - 2022-05-04 14:31:32 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(101): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->rechercherNote()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-04 14:31:57 --> Erreur de syntaxe près de ')' à la ligne 3
+CRITICAL - 2022-05-04 14:31:57 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(101): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->rechercherNote()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-04 14:31:57 --> Erreur de syntaxe près de ')' à la ligne 3
+CRITICAL - 2022-05-04 14:31:57 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(101): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->rechercherNote()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-04 14:31:58 --> Erreur de syntaxe près de ')' à la ligne 3
+CRITICAL - 2022-05-04 14:31:58 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(101): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->rechercherNote()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-04 14:31:58 --> Erreur de syntaxe près de ')' à la ligne 3
+CRITICAL - 2022-05-04 14:31:58 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(101): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->rechercherNote()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-04 14:33:06 --> Erreur de syntaxe près de ')' à la ligne 3
+CRITICAL - 2022-05-04 14:33:06 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(101): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->rechercherNote()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-04 14:33:07 --> Erreur de syntaxe près de ')' à la ligne 3
+CRITICAL - 2022-05-04 14:33:07 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(101): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->rechercherNote()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-04 14:33:07 --> Erreur de syntaxe près de ')' à la ligne 3
+CRITICAL - 2022-05-04 14:33:07 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(101): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->rechercherNote()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-04 14:33:12 --> Champ 'type' inconnu dans field list
+CRITICAL - 2022-05-04 14:33:12 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(101): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->rechercherNote()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-04 14:38:33 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNoteRecherche.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 37, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNoteRec...', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(104): view('site/aesNoteRec...', Array)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->rechercherNote()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-04 16:00:39 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aesNoteRecherche.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 37, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aesNoteRec...', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\ControllerNote.php(17): view('site/aesNoteRec...')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\ControllerNote->close()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\ControllerNote))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

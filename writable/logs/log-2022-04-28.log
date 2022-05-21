@@ -1,0 +1,1445 @@
+ERROR - 2022-04-28 06:17:48 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:17:48 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:17:50 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:17:50 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:19:04 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:19:04 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:19:05 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:19:05 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:19:05 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:19:05 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:19:05 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:19:05 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:19:06 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:19:06 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:19:06 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:19:06 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:19:06 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:19:06 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:19:06 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:19:06 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:20:09 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:20:09 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:21:08 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:21:08 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:26:36 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:26:36 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-28 06:26:50 --> La table 'gestionnotes.etudiant' n'existe pas
+CRITICAL - 2022-04-28 06:26:50 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\notes\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\wamp64\www\notes\app\Controllers\Acceil.php(11): CodeIgniter\BaseModel->findAll()
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-28 07:50:39 --> include(include_footer/footer.php): failed to open stream: No such file or directory
+#0 C:\wamp64\www\notes\app\Views\site\accueil.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include...', 'C:\\wamp64\\www\\n...', 62, Array)
+#1 C:\wamp64\www\notes\app\Views\site\accueil.php(62): include()
+#2 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#3 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#5 C:\wamp64\www\notes\app\Controllers\Acceil.php(15): view('site/accueil', Array)
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-28 07:50:41 --> include(include_footer/footer.php): failed to open stream: No such file or directory
+#0 C:\wamp64\www\notes\app\Views\site\accueil.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include...', 'C:\\wamp64\\www\\n...', 62, Array)
+#1 C:\wamp64\www\notes\app\Views\site\accueil.php(62): include()
+#2 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#3 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#5 C:\wamp64\www\notes\app\Controllers\Acceil.php(15): view('site/accueil', Array)
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-28 07:50:52 --> include(include_footer/footer.php): failed to open stream: No such file or directory
+#0 C:\wamp64\www\notes\app\Views\site\accueil.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include...', 'C:\\wamp64\\www\\n...', 62, Array)
+#1 C:\wamp64\www\notes\app\Views\site\accueil.php(62): include()
+#2 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#3 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#5 C:\wamp64\www\notes\app\Controllers\Acceil.php(15): view('site/accueil', Array)
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-28 07:51:07 --> include(footer.php): failed to open stream: No such file or directory
+#0 C:\wamp64\www\notes\app\Views\site\accueil.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(footer....', 'C:\\wamp64\\www\\n...', 62, Array)
+#1 C:\wamp64\www\notes\app\Views\site\accueil.php(62): include()
+#2 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#3 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#5 C:\wamp64\www\notes\app\Controllers\Acceil.php(15): view('site/accueil', Array)
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-28 07:51:08 --> include(footer.php): failed to open stream: No such file or directory
+#0 C:\wamp64\www\notes\app\Views\site\accueil.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(footer....', 'C:\\wamp64\\www\\n...', 62, Array)
+#1 C:\wamp64\www\notes\app\Views\site\accueil.php(62): include()
+#2 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#3 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#5 C:\wamp64\www\notes\app\Controllers\Acceil.php(15): view('site/accueil', Array)
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-28 07:52:28 --> include(footer.php): failed to open stream: No such file or directory
+#0 C:\wamp64\www\notes\app\Views\site\accueil.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(footer....', 'C:\\wamp64\\www\\n...', 62, Array)
+#1 C:\wamp64\www\notes\app\Views\site\accueil.php(62): include()
+#2 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#3 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/accueil', Array, true)
+#5 C:\wamp64\www\notes\app\Controllers\Acceil.php(15): view('site/accueil', Array)
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->index()
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-28 09:35:05 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 143, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(34): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 09:35:08 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 143, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(34): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 09:36:06 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 143, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(34): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 11:46:41 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:46:55 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:48:30 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:51:12 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:51:58 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:52:01 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'teste', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('teste')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('teste')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:52:04 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:52:28 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:52:52 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:56:24 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:56:27 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:56:27 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/Free-Downlo...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/Free-Downlo...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/Free-Downlo...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:59:14 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:59:15 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/Free-Downlo...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/Free-Downlo...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/Free-Downlo...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:59:20 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:59:32 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 11:59:32 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/Free-Downlo...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/Free-Downlo...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/Free-Downlo...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:00:25 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:00:51 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:01:40 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:01:40 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/Free-Downlo...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/Free-Downlo...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/Free-Downlo...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:02:22 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:02:22 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/Free-Downlo...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/Free-Downlo...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/Free-Downlo...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:02:28 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:07:01 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:08:12 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:08:23 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:08:51 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:08:51 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/Free-Downlo...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/Free-Downlo...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/Free-Downlo...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:09:30 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:09:30 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/Free-Downlo...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/Free-Downlo...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/Free-Downlo...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:11:36 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:11:36 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/Free-Downlo...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/Free-Downlo...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/Free-Downlo...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:12:01 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:12:01 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/Free-Downlo...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/Free-Downlo...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/Free-Downlo...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:12:28 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:12:49 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:14:56 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:23:21 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:23:21 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/Free-Downlo...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/Free-Downlo...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/Free-Downlo...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:24:28 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:24:28 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/Free-Downlo...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/Free-Downlo...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/Free-Downlo...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:24:32 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:24:58 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:25:15 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:25:42 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:25:42 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/Free-Downlo...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/Free-Downlo...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/Free-Downlo...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:26:12 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:27:42 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:27:54 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:28:20 --> View themes, no current section.
+#0 C:\wamp64\www\notes\app\Views\site\da2i.php(55): CodeIgniter\View\View->endSection()
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/da2i', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(52): view('site/da2i')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->da2i()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 12:28:43 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:29:06 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:29:32 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:30:51 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:38:29 --> Invalid file: layout/header.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/header.p...')
+#1 C:\wamp64\www\notes\system\View\View.php(424): CodeIgniter\View\View->render('layout/header', NULL, true)
+#2 C:\wamp64\www\notes\app\Views\site\aes.php(1): CodeIgniter\View\View->include('layout/header')
+#3 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#4 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#6 C:\wamp64\www\notes\app\Controllers\Acceil.php(39): view('site/aes', Array)
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#9 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-04-28 12:38:35 --> Invalid file: layout/header.php
+#0 C:\wamp64\www\notes\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/header.p...')
+#1 C:\wamp64\www\notes\system\View\View.php(424): CodeIgniter\View\View->render('layout/header', NULL, true)
+#2 C:\wamp64\www\notes\app\Views\site\aes.php(1): CodeIgniter\View\View->include('layout/header')
+#3 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#4 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#6 C:\wamp64\www\notes\app\Controllers\Acceil.php(39): view('site/aes', Array)
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#8 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#9 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-04-28 12:39:46 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:39:59 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:40:19 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:41:34 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:42:15 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:42:37 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:43:23 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:44:04 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:44:17 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:44:29 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:44:42 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:44:54 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:45:14 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:45:47 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:46:07 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:46:27 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:46:55 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:47:20 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/recher', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/recher')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/recher')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:47:20 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:47:40 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:48:04 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:48:24 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:49:03 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:49:22 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:50:09 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:50:29 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:51:19 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:51:51 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:52:18 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:53:30 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 12:56:52 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'img/ferme_16.pn...', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('img/ferme_16.pn...')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('img/ferme_16.pn...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:05:51 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'licence1Aes', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('licence1Aes')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('licence1Aes')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:05:55 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'licence1Aes', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('licence1Aes')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('licence1Aes')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:05:57 --> preg_match(): Unknown modifier 'o'
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): U...', 'C:\\wamp64\\www\\n...', 384, Array)
+#1 C:\wamp64\www\notes\system\Router\Router.php(384): preg_match('#^#modal$#u', 'licence1Aes', Array)
+#2 C:\wamp64\www\notes\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('licence1Aes')
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('licence1Aes')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:19:11 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:19:13 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:19:13 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:19:14 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:19:16 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:19:16 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:19:16 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:19:58 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:19:59 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:20:00 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:20:00 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:20:03 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:20:07 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:20:11 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:20:11 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:20:45 --> Call to undefined method CodeIgniter\Router\RouteCollection::podt()
+#0 C:\wamp64\www\notes\app\Config\Routes.php(37): CodeIgniter\Router\RouteCollection->match(Array, '/aes', 'Acceil::aes')
+#1 C:\wamp64\www\notes\system\CodeIgniter.php(706): require('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 13:26:32 --> syntax error, unexpected '}'
+#0 C:\wamp64\www\notes\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\n...')
+#1 C:\wamp64\www\notes\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-28 13:26:35 --> syntax error, unexpected '}'
+#0 C:\wamp64\www\notes\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\n...')
+#1 C:\wamp64\www\notes\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\notes\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-28 13:29:37 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:29:48 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:34:35 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:34:52 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:35:02 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:35:28 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:35:58 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:35:59 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:36:13 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:36:52 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(35): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:36:54 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(35): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:37:25 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:37:29 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:37:53 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:37:56 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(41): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:38:50 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(35): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:46:16 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(40): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:46:42 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(39): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:46:46 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(39): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:47:21 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(36): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:47:23 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(36): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:47:32 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(35): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-28 13:47:35 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\wamp64\www\notes\app\Views\site\aes.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\wamp64\\www\\n...', 147, Array)
+#1 C:\wamp64\www\notes\system\View\View.php(210): include('C:\\wamp64\\www\\n...')
+#2 C:\wamp64\www\notes\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\notes\system\Common.php(1089): CodeIgniter\View\View->render('site/aes', Array, true)
+#4 C:\wamp64\www\notes\app\Controllers\Acceil.php(35): view('site/aes')
+#5 C:\wamp64\www\notes\system\CodeIgniter.php(825): App\controllers\Acceil->aes()
+#6 C:\wamp64\www\notes\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Acceil))
+#7 C:\wamp64\www\notes\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\notes\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

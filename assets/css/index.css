@@ -1,0 +1,44 @@
+body,html{
+    margin: 0;
+    padding: 0;
+}
+*{
+    box-sizing: border-box;
+}
+
+
+.modal{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.8) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn .3s both;
+}
+
+.modal-wrapper{
+    overflow: auto;
+    width: 600px;
+    padding: 20px;
+    background:#fff;
+    max-width: calc(100vw - 20px);
+    max-height: calc(100vh - 20px);
+    animation: slidefromTop .5s both ;
+    }
+
+    @keyframes fadeIn{
+        from{opacity: 0;} 
+        to{opacity: 1;}
+    }
+
+    @keyframes slidefromTop{
+        from{transform: translateY(-50px);}
+        to{transform: translateY(0px);}
+    }
+
+
+    
